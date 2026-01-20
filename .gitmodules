@@ -1,0 +1,4 @@
+[submodule "lib/MySharedLib1"]
+	path = lib/MySharedLib1
+	url = https://github.com/stb11816/MySharedLib1.git
+	branch = main
